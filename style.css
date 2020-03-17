@@ -1,0 +1,39 @@
+.jumbotron{
+    color: #fff;
+}
+
+.jumbotron h1{
+    text-align: left;
+    margin-left: 6rem;
+}
+
+.container{
+    height: 67vh;
+}
+
+footer{
+    background-color: rgb(69, 150, 123);
+}
+
+footer a{
+    color: white;
+}
+
+.social-icons{
+    list-style: none;
+    margin-bottom: 5.4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons i {
+    font-size: 2rem;
+    color: #fff;
+    padding: .8rem 2rem;
+    opacity: .5;
+    transition: color 0.5s;
+}
+
+.copy{
+    text-align: center;
+}
